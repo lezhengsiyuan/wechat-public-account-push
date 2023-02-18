@@ -26,7 +26,7 @@ const USER_CONFIG = {
       //id: 'ozoQg5tPNpTFdx1n04j0jLeqeqMg',测试服务号
       //id: '53f1045ec4574a13aa6f4e442db39ae7',
       id:'SCT197054TjpLdU7Q10Q6ZUJWUdKWoqWMk',//方糖推送
-      id:"SCT197059TdnsCvEaljNcmOdm2N4VppGJX',      
+      id:'SCT197059TdnsCvEaljNcmOdm2N4VppGJX',      
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
